@@ -2,8 +2,8 @@
   "name": "EthereumExplorer",
   "private": false,
   "version": "0.1.0",
-  "description": "A lightweight ethereum block explorer",
-  "repository": "https://github.com/etherparty/explorer",
+  "description": "轻量级的以太坊区块链的浏览页",
+  "repository": "https://github.com/nanjixiong218/bc-explorer",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.3.1",
